@@ -1,3 +1,6 @@
+Note:
+This app is currently configured to run off the local machine running the hilton backend. To run it, be sure and modify the App.js with the local IP of the machine running the backend.
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
