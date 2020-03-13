@@ -7,6 +7,7 @@ import HomeScreen from './Homescreen';
 import DetailsScreen from './Details';
 import NewScreen from './New';
 
+//have this match up with your local IP on your machine if your API is running there.
 const client = new ApolloClient({uri: 'http://10.0.0.136:8000/graphql'});
 const RootStack = createStackNavigator({
   Home: HomeScreen,
